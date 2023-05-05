@@ -1,0 +1,6 @@
+print("Ponga su nombre:")
+nombre = input()
+print("Ponga su edad:")
+edad = int(input())
+en10anios = int(edad + 10)
+print (f"Usted tendra {en10anios} en 10 anios")

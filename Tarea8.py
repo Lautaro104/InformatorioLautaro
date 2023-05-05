@@ -1,0 +1,5 @@
+print("Ponga un numero")
+num1 = float(input())
+print("ponga otro numero")
+num2 = float(input())
+print(f"{num1} + {num2} = {num1 + num2} || {num1} - {num2} = {num1} || {num1} / {num2} = {num1 / num2} || {num1} * {num2} = {num1 * num2}")
